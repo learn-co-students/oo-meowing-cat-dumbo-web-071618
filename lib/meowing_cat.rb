@@ -1,1 +1,17 @@
-## code your solution here. 
+## code your solution here.
+class Cat
+  attr_accessor :name
+
+  def meow
+    puts "meow!"
+  end
+
+
+end
+
+# cat = Cat.new
+# cat.meow = "meow"
+# cat.name = "Maru"
+#
+# cat.talk
+# cat.name
